@@ -1,16 +1,14 @@
-## Hi there 👋
+# Kunal Garg
 
-<!--
-**gargk98/gargk98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. candidate in Economics at Texas A&M University, working in industrial organization and applied microeconomics. I study how households and firms respond to risk and new information, mostly in insurance and credit markets.
 
-Here are some ideas to get you started:
+On the 2026–27 job market for data science and economist roles in tech, economic consulting, and quantitative research in finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+- **[Predicting Corporate Default: A Dynamic Logit Benchmark vs. Machine Learning](https://github.com/gargk98/credit-risk-default-prediction)** (with [Rajib Oraon](https://github.com/rajibor24)). Compares a dynamic logit and XGBoost on 157,556 US firm-years, tested on years the models never saw. Both rank firms well (AUC-ROC 0.90–0.93), but their default probabilities miss in opposite directions around 2008 and 2020.
+- **[Belief Stabilization and the Flood Insurance Gap](https://gargk98.github.io/research/)** (job market paper). Asks why households drop flood insurance, and how a flood claim in their neighborhood changes that decision over the years they stay insured.
+
+### Links
+
+[Website](https://gargk98.github.io) · [CV](https://gargk98.github.io/files/cv_kunalgarg.pdf) · [LinkedIn](https://linkedin.com/in/gargk98) · kunalgarg@tamu.edu
